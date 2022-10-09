@@ -38,4 +38,5 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
 <a href="https://instagram.com/raulgoncalo98"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?RaulGoncalo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulGoncalo)](https://github.com/anuraghazra/github-readme-stats)
+
