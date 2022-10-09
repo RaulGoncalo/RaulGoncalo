@@ -1,7 +1,7 @@
 # Olá, eu sou o Raul! 👋
 
 Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e por isso conheço bem o universo de desenvolvimente, os rumos da vida me trouxeram para outra área, mas agora estou certo do que quero e farei o possivel para me tornar desenvolver JS, a linguagem que conheço e amo.
-
+</br>
 ## 🛠 Tecnologias
 
 <div>
@@ -18,6 +18,7 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
           
 </div>
+</br>
 
 ## Fatos sobre mim
 
@@ -27,8 +28,10 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
 
 🤔 Procuro ajuda com uma oportunidade em uma vaga de desenvolvedor JS.
 
-😄 Pronomes...Ele/dele
+😄 Pronomes: Ele/dele
 
+
+</br>
 
 ## Contatos:
 
@@ -37,11 +40,10 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
 <a href = "mailto:raulgoncalo.98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/raulgoncalo98"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-</br>
-</br>
-</br>
+
 
 ## Estatísticas GitHub:
+
 <div>
 <a href="https://github.com/RaulGoncalo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulGoncalo&layout=compact&langs_count=7&theme=dracula"/>
