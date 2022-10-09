@@ -29,8 +29,6 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
 🤔 Procuro ajuda com uma oportunidade em uma vaga de desenvolvedor JS.
 
 😄 Pronomes: Ele/dele
-
-
 </br>
 
 ## Contatos:
