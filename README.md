@@ -44,5 +44,4 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
 <div>
 <a href="https://github.com/RaulGoncalo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulGoncalo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulGoncalo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
