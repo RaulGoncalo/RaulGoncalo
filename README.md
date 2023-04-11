@@ -1,6 +1,6 @@
 # Olá, eu sou o Raul! 👋
 
-Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e por isso conheço bem o universo de desenvolvimente, os rumos da vida me trouxeram para outra área, mas agora estou certo do que quero e farei o possivel para me tornar desenvolver JS, a linguagem que conheço e amo.
+Sou formando em ADS pela Fatec Taquaritinga, e por isso conheço bem o universo de desenvolvimente, os rumos da vida me trouxeram para outra área, mas agora estou certo do que quero, e farei o possivel para me tornar Desenvolver Mobile.
 </br>
 ## 🛠 Tecnologias
 
@@ -10,10 +10,7 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
           
 </div>
@@ -23,9 +20,7 @@ Tenho 24 anos e atualmente estou me formando em ADS pela Fatec Taquaritinga, e p
 
 👩‍💻 Trabalho atualmente na Hutchinson Automotive como Analista de custos.
 
-🧠 Estou estudando e me aperfeiçando na stack JS e quero desenvolver habilidades com FLutter e React Native.
-
-🤔 Procuro ajuda com uma oportunidade em uma vaga de desenvolvedor JS.
+🧠 Estou estudando e me aperfeiçando para me tornar desenvolvedor Mobile.
 
 😄 Pronomes: Ele/dele
 </br>
