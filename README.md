@@ -1,6 +1,6 @@
 # Olá, eu sou o Raul! 👋
 
-Sou formando em ADS pela Fatec Taquaritinga, e por isso conheço bem o universo de desenvolvimente, os rumos da vida me trouxeram para outra área, mas agora estou certo do que quero, e farei o possivel para me tornar Desenvolver Mobile.
+Sou formando em ADS pela Fatec Taquaritinga, e essa possibilidade me proprocionou conhecer bem o universo de desenvolvimente, os rumos da vida me trouxeram para outra área, trabalho como analista de custos, e mesmo longe da faculdade e trabalhando em outra area, vinha estudando Front, Back, dados até que descide que o que gostava mesmo era de programar para mobile e agora que estou certo do que quero, farei o possivel e impossivel para me tornar Desenvolver Mobile.
 </br>
 ## 🛠 Tecnologias
 
