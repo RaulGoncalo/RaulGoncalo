@@ -1,6 +1,6 @@
 # Olá, eu sou o Raul! 👋
 
-Sou formando em ADS pela Fatec Taquaritinga, e essa possibilidade me proprocionou conhecer bem o universo de desenvolvimente, os rumos da vida me trouxeram para outra área, trabalho como analista de custos, e mesmo longe da faculdade e trabalhando em outra area, vinha estudando Front, Back, dados até que descide que o que gostava mesmo era de programar para mobile e agora que estou certo do que quero, farei o possivel e impossivel para me tornar Desenvolver Mobile.
+Formado em ADS pela Fatec Taquaritinga-SP, minha jornada como programador me levou a explorar amplamente o campo do desenvolvimento. Comecei estudando tópicos que vão desde Front-End até Back-End e Dados. Após uma reflexão profunda, descobri que minha verdadeira paixão reside no desenvolvimento mobile. Agora, estou totalmente focado em me tornar um Desenvolvedor Mobile, concentrando todos os meus esforços nesse objetivo principalmente utilizando Flutter, pois foi a tech que me mais identifiquei.
 </br>
 ## 🛠 Tecnologias
 
@@ -8,8 +8,8 @@ Sou formando em ADS pela Fatec Taquaritinga, e essa possibilidade me proprociono
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
@@ -24,6 +24,9 @@ Sou formando em ADS pela Fatec Taquaritinga, e essa possibilidade me proprociono
 🧠 Estou estudando e me aperfeiçando para me tornar desenvolvedor Mobile Flutter.
 
 😄 Pronomes: Ele/dele
+
+🎮 Games: Jogos diversos PS4 | Minecraft | LOL
+
 </br>
 
 ## Contatos:
