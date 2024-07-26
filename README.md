@@ -1,31 +1,31 @@
 # Olá, eu sou o Raul! 👋
 
-Formado em ADS pela Fatec Taquaritinga-SP, minha jornada como programador me levou a explorar amplamente o campo do desenvolvimento. Comecei estudando tópicos que vão desde Front-End até Back-End e Dados. Após uma reflexão profunda, descobri que minha verdadeira paixão reside no desenvolvimento mobile. Agora, estou totalmente focado em me tornar um Desenvolvedor Mobile, concentrando todos os meus esforços nesse objetivo principalmente utilizando Flutter, pois foi a tech que me mais identifiquei.
+Sou formado em ADS pela Fatec Taquaritinga-SP, minha jornada como programador me levou a explorar amplamente o campo do desenvolvimento. Comecei estudando tópicos que vão desde Front-End até Back-End e Dados. Após uma reflexão profunda, descobri que minha verdadeira paixão reside no desenvolvimento mobile. Agora, estou focado em me tornar um Desenvolvedor Android, concentrando meus esforços nesse objetivo principalmente.
 </br>
 ## 🛠 Tecnologias
 
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" height="30"/>    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30" height="30"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="30" height="30"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" height="30"/>
 </div>
 </br>
 
 ## Fatos sobre mim
 
-👩‍💻 Desenvolvedor mobile.
+👩‍💻 Desenvolvedor Android.
 
-🧠 Estou estudando e me aperfeiçando para me tornar desenvolvedor Mobile Flutter.
+🧠 Estou estudando e me aperfeiçando para me tornar desenvolvedor Mobile Android.
 
 😄 Pronomes: Ele/dele
-
-🎮 Games: Jogos diversos PS4 | Minecraft | LOL
 
 </br>
 
